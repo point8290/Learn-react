@@ -1,0 +1,24 @@
+.hamburger {
+    background-color: #262626;
+    color: #ddd;
+    height: 100rem;
+    padding: 10px;
+}
+
+.hamburgerItem {
+    padding-top: 10px;
+}
+
+.hamburgerLink {
+    font-weight: bold;
+    text-decoration: none;
+    color: #ddd;
+    display: inline-block;
+    height: 20px;
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+.hamburgerList {
+    margin-top: 20px;
+}
